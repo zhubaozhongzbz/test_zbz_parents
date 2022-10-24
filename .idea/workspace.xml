@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94fd21b3-ab05-4c88-bf27-de9f3da92ada" name="Changes" comment="new" />
+    <list default="true" id="94fd21b3-ab05-4c88-bf27-de9f3da92ada" name="Changes" comment="new">
+      <change beforePath="$PROJECT_DIR$/test1_zbz_module1/src/main/java/com/zbz/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/test1_zbz_module1/src/main/java/com/zbz/HelloWorld.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +32,15 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/test1_zbz_module1/src/main/java/com/zbz/HelloWorld.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -84,7 +94,7 @@
       <workItem from="1666529430272" duration="256000" />
       <workItem from="1666529723605" duration="1434000" />
       <workItem from="1666531169973" duration="1848000" />
-      <workItem from="1666579187781" duration="2708000" />
+      <workItem from="1666579187781" duration="2893000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1666580470464</created>
@@ -121,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666583146147</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="new">
+      <created>1666583607560</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666583607560</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,7 +149,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="v1.0" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

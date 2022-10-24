@@ -6,7 +6,7 @@ public class HelloWorld {
            String s = new String();
 
 
-        String s4 = new String();
+
         String s3 = new String();
         String s2 = new String();
         System.out.println("say holloworld");
